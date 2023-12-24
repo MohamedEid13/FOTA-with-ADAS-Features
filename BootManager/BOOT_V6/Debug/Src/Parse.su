@@ -1,0 +1,5 @@
+../Src/Parse.c:11:4:AsciToHex	24	static
+../Src/Parse.c:27:4:Parse_voidCheckSum	32	static
+../Src/Parse.c:62:4:ParseData	32	static
+../Src/Parse.c:105:4:ParseUpperAddress	24	static
+../Src/Parse.c:127:4:Parser_voidParseRecord	16	static

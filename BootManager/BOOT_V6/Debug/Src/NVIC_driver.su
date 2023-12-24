@@ -1,0 +1,11 @@
+../Src/NVIC_driver.c:20:6:MCAL_NVIC_SetPriorityGrouping	24	static
+../Src/NVIC_driver.c:50:8:MCAL_NVIC_GetPriorityGrouping	4	static
+../Src/NVIC_driver.c:62:6:MCAL_NVIC_EnableIRQ	24	static
+../Src/NVIC_driver.c:80:6:MCAL_NVIC_DisableIRQ	24	static
+../Src/NVIC_driver.c:98:7:MCAL_NVIC_GetPendingIRQ	24	static
+../Src/NVIC_driver.c:118:7:MCAL_NVIC_SetPendingIRQ	24	static
+../Src/NVIC_driver.c:136:6:MCAL_NVIC_ClearPendingIRQ	24	static
+../Src/NVIC_driver.c:154:7:MCAL_NVIC_GetActive	24	static
+../Src/NVIC_driver.c:180:6:MCAL_NVIC_SetPriority	24	static
+../Src/NVIC_driver.c:198:7:MCAL_NVIC_GetPriority	24	static
+../Src/NVIC_driver.c:216:6:MCAL_NVIC_SystemReset	4	static

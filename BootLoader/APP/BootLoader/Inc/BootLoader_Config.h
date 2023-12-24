@@ -1,0 +1,8 @@
+
+#ifndef BOOTLOADER_CONFIG_H_
+#define BOOTLOADER_CONFIG_H_
+
+#define FLAG_ADDRESS   0x0800FFF0
+
+
+#endif /* BOOTLOADER_CONFIG_H_ */

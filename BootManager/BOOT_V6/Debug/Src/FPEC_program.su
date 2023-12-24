@@ -1,0 +1,5 @@
+../Src/FPEC_program.c:8:6:FPEC_voidErase_FirstAPPArea	16	static
+../Src/FPEC_program.c:18:6:FPEC_voidErase_SecondAPPArea	16	static
+../Src/FPEC_program.c:29:6:FPEC_voidEraseAppArea	16	static
+../Src/FPEC_program.c:39:6:FPEC_voidFlashPageErase	16	static
+../Src/FPEC_program.c:68:6:FPEC_voidFlashWrite	32	static

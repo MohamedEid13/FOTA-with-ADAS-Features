@@ -1,0 +1,7 @@
+../Src/RCC_driver.c:44:6:MCAL_RCC_Select_Clock	16	static
+../Src/RCC_driver.c:78:6:MCAL_RCC_Enable_Peripheral	16	static
+../Src/RCC_driver.c:109:6:MCAL_RCC_Reset_Peripheral	16	static
+../Src/RCC_driver.c:139:8:MCAL_RCC_GetSYS_CLKFreq	16	static
+../Src/RCC_driver.c:171:8:MCAL_RCC_GetHCLKFreq	8	static
+../Src/RCC_driver.c:184:8:MCAL_RCC_GetPCLK1Freq	8	static
+../Src/RCC_driver.c:197:8:MCAL_RCC_GetPCLK2Freq	8	static

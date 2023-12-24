@@ -1,0 +1,11 @@
+../Src/USART_driver.c:31:6:MCAL_USART_Init	32	static
+../Src/USART_driver.c:108:6:MCAL_USART_DeInit	16	static
+../Src/USART_driver.c:133:6:MCAL_USART_GPIO_Set_Pins	24	static
+../Src/USART_driver.c:260:6:MCAL_USART_SendData	24	static
+../Src/USART_driver.c:309:6:MCAL_USART_SendString	32	static
+../Src/USART_driver.c:340:6:MCAL_USART_ReceiveData	24	static
+../Src/USART_driver.c:427:6:MCAL_USART_ReceiveBuffer	32	static
+../Src/USART_driver.c:457:6:MCAL_USART_Wait_TC	16	static
+../Src/USART_driver.c:463:6:USART1_IRQHandler	8	static
+../Src/USART_driver.c:472:6:USART2_IRQHandler	8	static
+../Src/USART_driver.c:481:6:USART3_IRQHandler	8	static
